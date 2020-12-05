@@ -584,7 +584,7 @@ function menu() {
     //translate(width/2,height/2)
 
     image(palm, width / 2, height / 2, width, height);
-    //image(eU, width / 2, height / 2 - 170, 150, 150);
+    image(eU, width / 2, height / 2 - 170, 150, 150);
 
     textAlign(CENTER);
     fill(255);
