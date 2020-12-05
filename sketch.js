@@ -3,7 +3,7 @@
 ///
 ///
 ///
-///                link do vídeo resolução unidade 2: https://youtu.be/besn542tAQY
+///                
 ///
 ///
 ///
